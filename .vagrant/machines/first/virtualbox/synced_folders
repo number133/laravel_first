@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/first":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/first","hostpath":"C:/Users/abylay/projects/first","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/abylay/projects/first","disabled":false,"__vagrantfile":true}}}
